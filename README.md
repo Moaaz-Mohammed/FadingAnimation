@@ -1,4 +1,4 @@
-This package is uses to make a fade animation to your widget.
+This package is uses to make a fade animation to your widget easily.
 
 
 ## Parameters :
