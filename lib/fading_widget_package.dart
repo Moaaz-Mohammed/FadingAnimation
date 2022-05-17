@@ -4,7 +4,7 @@ class FadingAnimation extends StatefulWidget {
   const FadingAnimation({
     Key? key,
     required this.child,
-    required this.duration,
+    this.duration = 1,
   }) : super(key: key);
   final Widget child;
   final int duration;
