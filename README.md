@@ -7,4 +7,4 @@ This package is uses to make a fade animation to your widget easily.
 
 
 ## Screenshot
-<img src="https://s4.ezgif.com/save/ezgif-4-84a9606edd.gif">
+<img src="https://s4.ezgif.com/save/ezgif-4-84a9606edd.gif" width="40" height="40" >
