@@ -3,7 +3,7 @@ This package is uses to make a fade animation to your widget easily.
 
 ## Parameters :
 - duration : this parameter takes a integer number of seconds that widget take to show the default is 1 second.
-- child : takes an Widget type that contain your widget.
+- child : takes an Widget type that contains your widget.
 
 
 ## Screenshot
