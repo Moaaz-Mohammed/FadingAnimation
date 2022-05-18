@@ -8,4 +8,4 @@ This package is uses to make a fade animation to your widget easily.
 
 ## Screenshot
 
-<img src="https://github.com/Moaaz-Mohammed/FadingAnimation/blob/master/lib/preview.gif?raw=true" >
+<img src="https://media1.tenor.com/images/753ef466b4bba11e7c844887a30045ee/tenor.gif" >
