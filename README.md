@@ -5,9 +5,6 @@ To use this plugin, add `fading_widget_package` as a [dependency in your pubspec
 
 ## Example
 
-import 'package:flutter/material.dart';
-import 'package:fading_widget_package/fading_widget_package.dart';
-
 ``` dart
 import 'package:flutter/material.dart';
 import 'package:test_widgets/fading_animation.dart';
